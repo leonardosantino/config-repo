@@ -1,1 +1,4 @@
+server:
+  port: 8889
 
+message: Default configuration with spring cloud config
