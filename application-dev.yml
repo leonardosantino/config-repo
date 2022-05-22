@@ -3,3 +3,5 @@ server:
   
 user:
   role: Developer
+  
+message: Development Profile
