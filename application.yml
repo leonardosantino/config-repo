@@ -1,4 +1,4 @@
 server:
   port: 8880
 
-message: Default configuration with spring cloud config
+message: Default configuration
