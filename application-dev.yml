@@ -1,7 +1,0 @@
-server:
-  port: 8881
-  
-user:
-  role: Developer
-  
-message: Development Profile
