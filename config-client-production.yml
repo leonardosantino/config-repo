@@ -1,4 +1,4 @@
 user:
-  role: User
-  
-message: Production Profile
+  role: Developer
+
+message: Application yaml profile
