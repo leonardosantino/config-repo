@@ -1,2 +1,2 @@
 # config-repo
-Spring Cloud Config
+Config repo for Spring Cloud Config Server
