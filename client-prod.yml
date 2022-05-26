@@ -1,4 +1,8 @@
 user:
-  role: Production
+  role: administrator
+  message: This is the admin profile
 
-message: PROD Profile
+server:
+  port: 8080
+
+message: this is the client-prod file
