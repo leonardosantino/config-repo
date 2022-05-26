@@ -1,4 +1,8 @@
 user:
-  role: Developer
+  role: developer
+  message: This is the dev profile
 
-message: DEV Profile
+server:
+  port: 8080
+
+message: this is the client-dev file
